@@ -1,0 +1,32 @@
+
+#outerwrapper{
+	
+	background: #FFFFFF;
+	margin: 60px auto;
+	width: 900px;
+	height: 1024px;
+
+}
+
+#container{
+	
+	background: #838283;
+	height: 200px;
+	width: 900px;
+	
+}
+
+#leftcontent{
+height:180px;
+width: 200px;
+background-color:#36F;
+float:left;
+}
+
+#rightcontent{
+height:180px;
+width: 200px;
+background-color:#0C3;
+float:left;
+}
+
